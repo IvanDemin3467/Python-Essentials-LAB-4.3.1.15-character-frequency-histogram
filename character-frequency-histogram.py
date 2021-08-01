@@ -34,6 +34,12 @@ def frequency_histogram(file):
         print(entry[0] + " -> " + str(entry[1]))
 
 
+def user_input():
+    # This function prompts user to input name of file
+    return input("Input name of file to process: ") 
+    
+
+
 if __name__ == "__main__":
     frequency_histogram("samplefile.txt")
     frequency_histogram("text.txt")
