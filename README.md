@@ -1,4 +1,4 @@
-# Python-Essentials-LAB-4.3.1.15-copy-the-file
+# Python-Essentials-LAB-4.3.1.15-character-frequency-histogram
 **Objectives**
 
 •	improving the student's skills in operating with files (reading)
